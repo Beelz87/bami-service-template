@@ -1,0 +1,8 @@
+{
+  "repo_name": "bami-orders",
+  "service_name": "orders",
+  "package_name": "orders_service",
+  "service_port": "8000",
+  "k8s_namespace": "bami",
+  "chassis_version": ">=0.2,<0.3"
+}

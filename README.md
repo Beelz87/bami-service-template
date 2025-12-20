@@ -1,1 +1,1 @@
-# bami-service-template
+# Bami service template
