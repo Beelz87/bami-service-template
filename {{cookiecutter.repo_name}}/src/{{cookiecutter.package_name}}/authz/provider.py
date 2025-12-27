@@ -1,5 +1,6 @@
-from bami_chassis.security.authz.casbin_provider import CasbinProvider
 from importlib import resources
+
+from bami_chassis.application.security.authz.casbin_enforcer import CasbinProvider
 
 
 def service_enforcer_provider():
