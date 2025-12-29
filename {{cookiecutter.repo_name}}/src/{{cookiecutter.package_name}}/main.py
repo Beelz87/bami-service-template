@@ -1,3 +1,5 @@
+from bami_chassis.interfaces.api import metrics_router
+from bami_chassis.interfaces.api.health import health_router
 from fastapi import FastAPI
 from bami_chassis import (
     settings,
